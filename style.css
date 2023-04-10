@@ -1,0 +1,23 @@
+.flex-box-rps img:hover{
+    box-shadow: 8px 10px 50px rgba(37 , 58 , 223, 1);
+
+
+}
+.container-3{
+    
+   border: 1px solid black;
+   width: 75%;
+   margin: 0 auto;
+   text-align: center;
+
+}
+.flex-box-rps{
+    display: flex;
+    
+    padding: 10px;
+    flex-wrap:wrap;
+    flex-direction:row;
+    justify-content: space-around;
+    
+    
+}
